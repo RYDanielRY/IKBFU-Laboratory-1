@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Desktop\\Res1\\LaboratoryOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B81A7E-6627-4F20-AFCA-C1425B5DCA0D}|LaboratoryOne\\LaboratoryOne.vcxproj|C:\\Users\\Daniil\\Desktop\\Res1\\LaboratoryOne\\LaboratoryOne\\LaboratoryOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19B81A7E-6627-4F20-AFCA-C1425B5DCA0D}|LaboratoryOne\\LaboratoryOne.vcxproj|solutionrelative:LaboratoryOne\\LaboratoryOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaboratoryOne.cpp",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Res1\\LaboratoryOne\\LaboratoryOne\\LaboratoryOne.cpp",
+              "RelativeDocumentMoniker": "LaboratoryOne\\LaboratoryOne.cpp",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Res1\\LaboratoryOne\\LaboratoryOne\\LaboratoryOne.cpp",
+              "RelativeToolTip": "LaboratoryOne\\LaboratoryOne.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-02T09:27:12.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
